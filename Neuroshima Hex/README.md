@@ -9,9 +9,16 @@ The main goal of this project is to allow for easy creation of a custom insert a
   - Uranopolis
   - Sharrash
   
+  I can also confirm the following expansion do not need the bigger drawer + cut tube:
+
+  - Neojungle
+  - Vegas
+  - SMART
+  - New York
+  
   As a side note, to achieve the designs of the bigger drawer + cut tube in the provided FreeCad file, simply replace the value next to "Tube Drawer Height" with the value next to "Tube Drawer Bigger Height" in the spreadsheet and recompute both the drawer and the tube.
 
   ![spreadsheet](./drawer_height_spreadsheet.png)
 
   ## Print settings
-  The models have been thoroughly tested on a Bambu Lab P1S with a 0.4 standard nozzle. The tubes do not need supports, the drawers do need supports (preferably tree) and should be printed on one of the flat sides as in the provided picture. I used a layer height of 0.2 mm and 15% sparse infill. The models do not require any post-processing (other than support removal) for standard usage.
+  The models have been thoroughly tested on a Bambu Lab P1S with a 0.4 standard nozzle. The tubes do not need supports, the drawers do need supports (preferably tree) and should be printed on one of the flat sides. I used a layer height of 0.2 mm and 15% sparse infill. The models do not require any post-processing (other than support removal) for standard usage.
